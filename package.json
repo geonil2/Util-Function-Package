@@ -1,6 +1,6 @@
 {
   "name": "@geonil2/util-func",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Util function package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
